@@ -1,6 +1,6 @@
 import './App.scss'
 import NavBar from './components/navbar/NavBar'
-import WebsiteDesign from './websiteDesign/WebsiteDesgin'
+import WebsiteDesign from './components/websiteDesign/WebsiteDesgin'
 
 function App() {
   return (

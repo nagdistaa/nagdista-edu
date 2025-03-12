@@ -2,11 +2,9 @@ import Card from "./Card";
 import { websiteDesignData } from "./webSiteDesignData";
 import "./WebsiteDesing.scss"
 
-interface Iprops {
 
-}
 
-const WebsiteDesign = ({}:Iprops)=>{
+const WebsiteDesign = ()=>{
 return(
     <div className="website-design">
        

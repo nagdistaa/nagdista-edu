@@ -1,4 +1,4 @@
-export const websiteDesignData=[
+export  const websiteDesignData=[
     {
     name:"lecture 4 ",
     link:"https://t.me/nagdista_edu/14",
