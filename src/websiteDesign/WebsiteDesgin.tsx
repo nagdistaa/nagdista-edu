@@ -1,5 +1,7 @@
 import Card from "./Card";
+import { websiteDesignData } from "./webSiteDesignData";
 import "./WebsiteDesing.scss"
+
 interface Iprops {
 
 }
